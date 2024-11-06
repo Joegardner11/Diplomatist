@@ -1,5 +1,5 @@
 ## Run Diplomatist
-We open-sourced part of the code during the Double-Blind Peer Review.
+
 
 - Step 1
 
